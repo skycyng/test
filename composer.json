@@ -1,0 +1,11 @@
+{
+    "name": "skycyng/test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sky Cyng",
+            "email": "skycyng2@gmail.com"
+        }
+    ],
+    "require": {}
+}
