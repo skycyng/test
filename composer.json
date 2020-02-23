@@ -1,6 +1,7 @@
 {
     "name": "skycyng/test",
     "type": "project",
+	"license": "MIT",
     "authors": [
         {
             "name": "Sky Cyng",
