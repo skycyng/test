@@ -2,11 +2,15 @@
     "name": "skycyng/test",
     "type": "project",
 	"license": "MIT",
+	"minimum-stability": "stable",
+	"prefer-stable": true,
     "authors": [
         {
             "name": "Sky Cyng",
             "email": "skycyng2@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+		"php": ">=5.4.0"
+	}
 }
